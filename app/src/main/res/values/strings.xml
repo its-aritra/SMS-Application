@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SMSReplied</string>
+    <string name="channel_name">My channel1</string>
+    <string name="channel_description">my_channel_desc</string>
+</resources>
